@@ -1,0 +1,29 @@
+#card{
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	top:0px;
+	left: 0px;
+	border: 2px solid green;
+	background-image: url("background.jpg");
+	overflow: hidden;
+	user-select: none;
+	font-size: 2em;
+	text-align: center;
+	color: red;
+	text-shadow: 2px 2px #1E90FF;
+	font-family: "Lobster", Sans-Serif;
+	
+}
+
+h1{
+	position:relative;
+	z-index: 100;
+}
+
+p {
+	margin-top:140px;
+
+}
+	
+
